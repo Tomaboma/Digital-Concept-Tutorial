@@ -39,7 +39,7 @@ This tutorial is covering how to convert between the four types of number system
   Click the link to view the [Digital Electronics](https://learnabout-electronics.org/Digital/dig12.php) explanation for conversion between the 4 types of number systems.
 
   Below is a video showing how to convert between the four types of number systems.
-  [![Number Systems - Converting Decimal, Binary and Hexadecimal](https://i.ytimg.com/an_webp/aW3qCcH6Dao/mqdefault_6s.webp?du=3000&sqp=CMyzpP4F&rs=AOn4CLBU6Q5Om53H_MrzUuE_G0lAKU6d_g)](https://youtu.be/aW3qCcH6Dao)/n
+  [![Number Systems - Converting Decimal, Binary and Hexadecimal](https://i.ytimg.com/an_webp/aW3qCcH6Dao/mqdefault_6s.webp?du=3000&sqp=CMyzpP4F&rs=AOn4CLBU6Q5Om53H_MrzUuE_G0lAKU6d_g)](https://youtu.be/aW3qCcH6Dao)
 
 
 ## Description of Target Audience
